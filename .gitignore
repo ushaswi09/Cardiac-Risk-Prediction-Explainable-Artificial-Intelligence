@@ -6,3 +6,4 @@ catboost_info/
 outputs/X_test.pkl
 outputs/y_test.pkl
 train.py.save
+.DS_Store
