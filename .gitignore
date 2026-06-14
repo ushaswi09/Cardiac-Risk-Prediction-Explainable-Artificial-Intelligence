@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+catboost_info/
+outputs/X_test.pkl
+outputs/y_test.pkl
+train.py.save
